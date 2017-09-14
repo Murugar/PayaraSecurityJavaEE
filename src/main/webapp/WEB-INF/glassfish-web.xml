@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glassfish-web-app>
+    <security-role-mapping>
+        <role-name>view_role</role-name>
+        <group-name>view_group</group-name>
+        <principal-name>Blitzmann</principal-name>
+    </security-role-mapping>
+</glassfish-web-app>
